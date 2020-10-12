@@ -25,7 +25,7 @@ h5{
   position: relative;
   top:20px;
   left:50px;
-  color:aquamarine;
+  color:slategrey;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   text-align: center;
   padding-top: 30px;
@@ -95,7 +95,7 @@ hr.rounded {
   margin-left: auto;
   margin-right: a;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: crimson;
+  color: black;
   }
   .checked {
     color: orange;
